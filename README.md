@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElijahAdebambo
-- 👀 I’m interested in looking for a placement opportunity, to equip myself with the skills necessary to begin a professional career, in the Tech industry.
-- 🌱 I’m currently a second-year student from Nottingham Trent University studying BSc (Hons) Computing SW.
+- 👀 As a recent graduate with experience as a QA/Software Engineer. He has a diverse skill set in software development, project management, and user-centred design.
+- 🌱Elijah thrives on challenges, demonstrating strong multitasking, technology proficiency, and exceptional customer service. He is seeking a graduate role to apply his knowledge and unique perspectives, eager to contribute to innovative projects and collaborate with dynamic tech teams.
 - 📫 Contact me by email; elijahadebambo@icloud.com
 
 <!---
